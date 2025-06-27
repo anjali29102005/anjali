@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const ContactPage=() => {
   return(
     
-<div class="container">
+
         <div id="contact">
         <h1>Contact Us </h1>
         <p>We'd love to hear from you! Whether you have questions about admissions, programs, or campus life, our team is here to help.</p>
@@ -32,9 +32,7 @@ Email: studentsupport@vivekanandcollege.edu</p>
     <h2>Send us a Message</h2>
     <p>[A contact form with fields for Name, Email, SUbject, Message can be added here.]</p>
     </div>
-  
 
-  </div>
   )
 }
 

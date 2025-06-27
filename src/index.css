@@ -7,7 +7,7 @@
 
 
 body {
-  background-color: aqua;
+  background-color: #52d2d2;
 }
 
 .main {
@@ -16,6 +16,10 @@ body {
   flex-direction: column;
   justify-content: space-between;
   gap: 40px;
+}
+.main-container{
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .container {
